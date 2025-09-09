@@ -8,6 +8,7 @@ void main() {
 const Color spotifyBlack = Color(0xFF121212);
 const Color spotifyGreen = Color(0xFF1DB954);
 const Color spotifyGrey = Color(0xFF2B2B2B);
+const Color spotifyblue = Color.fromARGB(255, 29, 51, 150);
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
