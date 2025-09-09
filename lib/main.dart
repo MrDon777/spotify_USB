@@ -4,7 +4,7 @@ void main() {
   runApp(const MyApp());
 }
 
-/// Colores base para el tema (estilo Spotify dark)
+/// Colores base para el tema (estilo Spotify dark) fggfgfgfgffggffgfg
 const Color spotifyBlack = Color(0xFF121212);
 const Color spotifyGreen = Color(0xFF1DB954);
 const Color spotifyGrey = Color(0xFF2B2B2B);
